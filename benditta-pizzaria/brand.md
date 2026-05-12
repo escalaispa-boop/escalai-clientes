@@ -1,19 +1,21 @@
-# Benditta Pizzaria — Identidade Visual
+# Benditta Pizzaria
 
-## Paleta de Cores
-| Cor | HEX | Uso |
-|-----|-----|-----|
-| Bordô | `#863D3F` | Cor primária |
-| Dourado | `#E8BA44` | Destaque |
-| Chumbo | `#373435` | Textos |
-| Creme | `#F3F0D7` | Fundo |
+## Identidade Visual
 
-## Tipografia
-- **Títulos:** Filena
-- **Corpo:** Montserrat
+### Cores
+| Papel | HEX |
+|-------|-----|
+| Fundo principal (Creme) | `#F3F0D7` |
+| Texto / base escura | `#373435` |
+| Destaque (Dourado) | `#E8BA44` |
+| Fundo secundário (Creme claro) | `#ECE6C0` |
+| Acento (Vinho) | `#86303F` |
 
-## Estilo Visual
-Rústico-moderno italiano. Fundos creme com bordô e dourado. Fotos quentes com ingredientes naturais.
+### Tipografia
+| Uso | Fonte |
+|-----|-------|
+| Título e destaque | Filson |
+| Subtítulo e corpo | Montserrat |
 
-## Drive
-- Pasta raiz: `1bJTbRZFyBGSSMkeOM7HHYNJZTMLMgSkM`
+### Estilo
+Identidade visual rústica e elegante, com referências à tradição italiana. Paleta em tons de creme, dourado e vinho transmite sofisticação e aconchego. Tipografia clássica e refinada. Visual vintage e artesanal, posicionando a marca como pizzaria premium com alma italiana.
