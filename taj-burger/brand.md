@@ -1,19 +1,20 @@
-# Taj Burger — Identidade Visual
+# Taj Burger
 
-## Paleta de Cores
-| Cor | HEX | Uso |
-|-----|-----|-----|
-| Vermelho | `#F40103` | Cor primária, CTAs |
-| Amarelo | `#FFD658` | Títulos, energia |
-| Preto | `#090808` | Fundos, contraste |
-| Branco | `#FFFFFF` | Textos |
+## Identidade Visual
 
-## Tipografia
-- **Títulos:** Western Bang Bang
-- **Corpo:** Barlow
+### Cores
+| Papel | HEX |
+|-------|-----|
+| Primária (Vermelho) | `#F40103` |
+| Secundária (Amarelo) | `#FFD658` |
+| Fundo escuro / texto | `#090808` |
+| Fundo claro | `#FFFFFF` |
 
-## Estilo Visual
-Impactante, street food premium. Alto contraste vermelho/amarelo/preto. Fotografias dramáticas, close no lanche. Texturas urbanas.
+### Tipografia
+| Uso | Fonte |
+|-----|-------|
+| Título e destaque | Western Bang Bang |
+| Subtítulo e corpo | Bartow |
 
-## Drive
-- Pasta raiz: `1uF-A9dtbbtIoeGqmWkmskk4tVyaMXTNd`
+### Estilo
+Identidade visual urbana e agressiva, com energia de street food premium. Paleta em vermelho intenso e amarelo sobre fundo preto cria impacto e apetite. Tipografia com influência western e grunge transmite personalidade única e marcante. Visual que combina atitude com sofisticação, diferenciando a marca no mercado de hamburguerias.
