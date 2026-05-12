@@ -20,13 +20,13 @@ Repositório centralizado com a identidade visual de todos os clientes da Escala
 
 ```
 [cliente]/
-  brand.md   → cores HEX, tipografia (título e corpo) e descrição de estilo da marca
+  brand.md   -> cores HEX, tipografia (titulo e corpo) e descricao de estilo da marca
 ```
 
 ## Como usar com Claude Design
 
-1. Abra o Claude Design em claude.ai
-2. 2. Conecte este repositório GitHub ao projeto
-   3. 3. Ao iniciar uma tarefa, informe o cliente e envie as fotos, o brand book e os criativos de referência
-      4. 4. O Claude Design lê o `brand.md` do cliente para garantir que cores, fontes e estilo sejam respeitados
-         5. 
+- Abra o Claude Design em claude.ai
+- - Conecte este repositorio GitHub ao projeto
+  - - Ao iniciar uma tarefa, informe o cliente e envie as fotos, o brand book e os criativos de referencia
+    - - O Claude Design le o `brand.md` do cliente para garantir que cores, fontes e estilo sejam respeitados
+      - 
